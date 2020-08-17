@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/Users/griffinwalraven/Pictures/wallpapers/Titans/titan_in_city.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E111A",
+        "foreground": "#95ced4",
+        "cursor": "#95ced4"
+    },
+    "colors": {
+        "color0": "#0E111A",
+        "color1": "#2B3248",
+        "color2": "#4B364C",
+        "color3": "#2A515B",
+        "color4": "#5B5855",
+        "color5": "#9C6347",
+        "color6": "#BF9A61",
+        "color7": "#95ced4",
+        "color8": "#689094",
+        "color9": "#2B3248",
+        "color10": "#4B364C",
+        "color11": "#2A515B",
+        "color12": "#5B5855",
+        "color13": "#9C6347",
+        "color14": "#BF9A61",
+        "color15": "#95ced4"
+    }
+}

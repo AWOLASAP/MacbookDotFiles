@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "coc-jedi": ">=0.14.0",
+    "coc-json": ">=1.2.6",
+    "coc-sh": ">=0.5.1",
+    "coc-snippets": ">=2.1.28",
+    "coc-texlab": ">=2.1.0",
+    "coc-tsserver": ">=1.5.2",
+    "coc-vimlsp": ">=0.9.1"
+  }
+}

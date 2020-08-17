@@ -1,0 +1,23 @@
+{
+  "lists": {
+    "%2FUsers%2Fgriffinwalraven%2F": {
+      "config%2Fnvim": [
+        "?"
+      ]
+    }
+  },
+  "diagnostics": {
+    "%2FUsers%2Fgriffinwalraven%2F": {
+      "config%2Fnvim": [
+        ":q"
+      ]
+    }
+  },
+  "commands": {
+    "%2FUsers%2Fgriffinwalraven%2F": {
+      "config%2Fnvim": [
+        "q"
+      ]
+    }
+  }
+}
